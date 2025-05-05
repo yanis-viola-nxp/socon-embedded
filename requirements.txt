@@ -1,4 +1,4 @@
-PyYAML==6.0
+PyYAML==6.0.2
 Jinja2==3.1.2
 datalookup==1.0.1
 pydantic==2.5.3
